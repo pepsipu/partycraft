@@ -1,0 +1,6 @@
+name: PartyCraft
+version: ${project.version}
+main: pepsipu.partycraft.PartyCraft
+api-version: 1.16
+authors: [ pepsipu ]
+description: throw parties in minecraft
