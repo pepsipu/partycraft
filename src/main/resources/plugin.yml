@@ -4,3 +4,9 @@ main: pepsipu.partycraft.PartyCraft
 api-version: 1.16
 authors: [ pepsipu ]
 description: throw parties in minecraft
+
+commands:
+  setBirthdayPlayer:
+    description: Selects the birthday player
+  welcomeBirthdayPlayer:
+    description: Welcomes the birthday player

@@ -1,0 +1,1 @@
+Copy-Item ".\target\partycraft-1.0-SNAPSHOT.jar" -Destination ".\test\plugins"
